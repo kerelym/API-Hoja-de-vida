@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "mi-proyecto",
+  "name": "API-MyResume",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
